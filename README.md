@@ -53,6 +53,13 @@ Beatmap constructor takes the map key from beatsaver for constructor, then gets 
 
 has 2 lists: one list saves the keys of the resulting maps (0 is first), the other list saves the preview names from beatsaver
 
+## Attributes of Search 
+    resultNames = []
+    resultKeys = []
+    totalResults = None
+    lastPage = None
+    prevPage = None
+    nextPage = None
 
 
 
