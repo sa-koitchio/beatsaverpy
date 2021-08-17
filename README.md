@@ -1,4 +1,4 @@
-# beatsaverpy
+# beatsaverpy (Not up-to-date with the new api!!!)
 Python implementation of beatsaver's API
 
 # Contains functionality to get info on beatmaps and request searches by query.
